@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "vGhvDcAdtG6uFcdvw5TMUlpkuwIQQEUoWESmmBogEsTs9lkTH2s9NLHY7kQzt/w44Fbl+nv/yK7TFgjmN9BiQw==",
+  "success": true,
+  "projectFilePath": "D:\\論文\\倉儲\\Unitech_RFID_SDK_Android_1_0_28_rev1\\Source\\Xamarin\\WH_APP\\WH_APP\\WH_APP.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\RYAN\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\RYAN\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\RYAN\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\RYAN\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\RYAN\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}
